@@ -1,3 +1,6 @@
 # networkmonitor
 
-Please install following library before compiling this code:
+Please download following library from library manager
+
+ - Etherent.h 
+ - ArduinoUniqueID.h
